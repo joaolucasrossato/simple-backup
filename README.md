@@ -1,4 +1,3 @@
-# simple-backup
 Um script automatizado em Bash para realizar backups de diretórios.
 
 ## Funcionalidades
